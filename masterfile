@@ -5,6 +5,11 @@ This line is added after tag creation.
 
 This lin is added after tag v1.0.5-rc2 and before next tag
 
+<<<<<<< HEAD
 This is for PR Request from Branch-2
 
 This is before PR request.
+=======
+Preevious Line has been Delete and  Upated Line
+.
+>>>>>>> a51e6283175ebbeeb6d7e402dcc01a4252ace0e6
